@@ -37,7 +37,7 @@ input{
 .table_button table,.table_button tr,.table_button td{
     border: none;
 }
-.hello{
+#number3{
     background-color: rgb(45, 95, 151);
     color: white;
     text-align: center;
